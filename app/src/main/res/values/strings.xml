@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">capstonproject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="spinner_disabled">
+        <item>선택</item>
+        <item>방문서비스</item>
+        <item>국가유공</item>
+        <item>물품지원</item>
+        <item>복지서비스</item>
+        <item>생활지원</item>
+    </string-array>
+
+
+    <string-array name="spinner_area">
+        <item>선택</item>
+        <item>서울특별시</item>
+        <item>대구광역시</item>
+        <item>강원도 강릉시</item>
+        <item>강원도 동해시</item>
+        <item>강원도 삼척시</item>
+        <item>강원도 양양군</item>
+        <item>강원도 영월군</item>
+        <item>강원도 원주시</item>
+        <item>강원도 정선군</item>
+        <item>강원도 춘천시</item>
+        <item>강원도 평창군</item>
+        <item>경기도 가평군</item>
+        <item>경기도 고양시</item>
+        <item>경기도 과천시</item>
+        <item>경기도 광주시</item>
+        <item>경기도 구리시</item>
+        <item>경기도 군포시</item>
+        <item>경기도 김포시</item>
+        <item>경기도 남양주시</item>
+        <item>경기도 부천시</item>
+        <item>경기도 성남시</item>
+        <item>경기도 수원시</item>
+    </string-array>
+
+
+</resources>
