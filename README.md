@@ -1,4 +1,4 @@
-![그림01](https://github.com/user-attachments/assets/0ed442c9-ffd0-4ff4-b1dc-3a5e912b6ab9)![그림01](https://github.com/user-attachments/assets/5482c996-21f4-4b05-bf9e-226ca9d45f74)# Silver Oasis
+# Silver Oasis
 
 
 
